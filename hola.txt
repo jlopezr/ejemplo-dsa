@@ -2,6 +2,6 @@ Buenas! Soy Juan modificando un archivo
 
 HOLA!
 
-Que tal va?
+Que tal va? Pues va mal!
 
 Soy Toni modificando un archivo!
