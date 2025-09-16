@@ -1,6 +1,6 @@
 Hola!
 
-Que tal?
+Que tal? Pues muy bien
 
 Bienvenidos a la clase de DSA
 
