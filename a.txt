@@ -4,6 +4,6 @@ Que tal?
 
 Bienvenidos a la clase de DSA
 
-Como mola el git
+Como mola el git.... seguro que mola?
 
 Pues a ver si esto me da problemas!
